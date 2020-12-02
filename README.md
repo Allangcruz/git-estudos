@@ -11,6 +11,18 @@ git init
 
 ##### 
 
+git add <nome do arquivo>
+git add .
+git status
+git commit -m "mensagens"
+git diff
+git push
+git push origin <nome da branch>
+git branch -v
+git remote -v
+git pull
+git pull origin <nome da branch>
+
 
 # Referencia
 
