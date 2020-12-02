@@ -18,12 +18,25 @@ git add <nome do arquivo>
 git add .
 ```
 
+##### Verifica mudança
+```
 git status
+```
 
+##### Para SUbir um arquivo
+```
 git commit -m "mensagens"
+```
 
+##### Commita mudanças e adiciona o stage
+```
+git commit -am "mensagens"
+```
+
+#####
+```
 git diff
-
+```
 git push
 
 git push origin <nome da branch>
