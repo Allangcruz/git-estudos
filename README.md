@@ -9,7 +9,7 @@
 git init
 ```
 
-##### ele adiciona uma arquivo no stage
+##### Adiciona uma arquivo no stage
 ```
 git add <nome do arquivo>
 ```
