@@ -33,22 +33,40 @@ git commit -m "mensagens"
 git commit -am "mensagens"
 ```
 
-#####
+##### Exibe a mudança 
 ```
 git diff
 ```
+
+##### Sobe para o repositório remoto
+```
 git push
+```
 
+##### Sobe para o repositório remoto e especifica a branch
+```
 git push origin <nome da branch>
+```
 
+##### Lista as branch
+```
 git branch -v
+```
 
+##### Este cara lista os remote
+```
 git remote -v
+```
 
+#####
+```
 git pull
+```
 
+#####
+```
 git pull origin <nome da branch>
-
+```
 
 # Referencia
 
