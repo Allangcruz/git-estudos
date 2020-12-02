@@ -58,12 +58,12 @@ git branch -v
 git remote -v
 ```
 
-#####
+##### Puxa as mudaças feitas 
 ```
 git pull
 ```
 
-#####
+##### Puxa as mudaças feitas especifica as branch
 ```
 git pull origin <nome da branch>
 ```
